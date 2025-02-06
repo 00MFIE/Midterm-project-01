@@ -1,1 +1,1 @@
-# Midtrem-project-01
+# Midterm-project-01
